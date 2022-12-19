@@ -4,7 +4,7 @@ cumulation of react studies
 
 # Topics to be covered
 1. creating a react app
-2. adding mui, react-hook-form, yup
+2. adding mui, react-hook-form, yup<br>
 ....................<br>
 ....................<br>
 * Add Redux to it
